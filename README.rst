@@ -67,7 +67,7 @@ All of the following textbooks can be found in the UofT astronomy library.
 Shorthand
 ++++++++++++++
 
-Some of these are notations are probably obvious, but you might come across the following in my hand-written notes:
+Some of these notations are probably obvious, but you might come across the following in my hand-written notes:
 
 * **atm** = atmosphere
 * **BB** = Big Bang or blackbody, depending on context
