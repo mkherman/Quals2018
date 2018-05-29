@@ -1,7 +1,7 @@
-UofT General Astronomy Qualifying Exam Resources
+General Astronomy Qualifying Exam Resources
 ========
 
-This repository contains the vast majority of the prep work I did for my general qualifying exam. You'll find the list of exam questions (for 2018) including some real follow up questions, the cosmology primer I wrote, and the scanned versions of my notes/answers for each section of the exam. Below is a list of useful textbooks and a list of shorthand words that you'll come across in my notes.
+This repository contains the vast majority of the prep work I did for my general qualifying exam at UofT. You'll find the list of exam questions (for 2018), some real follow up questions, the cosmology primer I pieced together, and the scanned versions of my notes/answers for each section of the exam. Below is a list of useful textbooks and a list of shorthand words that you'll come across in my notes.
 
 
 Useful Textbooks
