@@ -61,7 +61,7 @@ All of the following textbooks can be found in the UofT astronomy library.
 * Cowan 1998, *Statistical Data Analysis*
 * Bassan 2014, *Advanced Interferometers and the Search for Gravitational Waves*
 * Creighton & Anderson 2011, *Gravitational-Wave Physics and Astronomy*
-* Dodelson 2017, *Graviational Lensing*
+* Dodelson 2017, *Gravitational Lensing*
 
 
 Shorthand
