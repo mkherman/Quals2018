@@ -69,26 +69,38 @@ Shorthand
 
 Some of these are notations are probably obvious, but you might come across the following in my hand-written notes:
 
-* **w/** = with
+* **atm** = atmosphere
+* **BB** = Big Bang or blackbody, depending on context
 * **b/c** = because 
 * **bt/w** = between
-* **v.v.** = vice versa
-* **eqn** = equation
-* **EoS** = equation of state
-* **EoR** = epoch of reionization 
-* **BB** = Big Bang or blackbody, depending on context
-* **triangular dots** = therefore
 * **DM** = dark matter
-* **MW** = Milky Way
-* **SF(R)** = star formation (rate)
-* **SN(e)** = Supernova(e)
 * **E, PE, KE** = energy, potential energy, kinetic energy
-* **nu** = frequency or neutrino
-* **gamma** = photon
-* **sigma** = velocity dispersion, cross section, or standard deviation
 * **e-, p+** = electron, proton
-* **n** = neutron or number density
-* **atm** = atmosphere
+* **eqn** = equation
+* **EoR** = epoch of reionization 
+* **EoS** = equation of state
+* **gamma** = photon
 * **HJ** = Hot Jupiter
+* **MW** = Milky Way
+* **n** = neutron or number density
+* **nu** = frequency or neutrino
+* **SF(R)** = star formation (rate)
+* **sigma** = velocity dispersion, cross section, or standard deviation
+* **SN(e)** = Supernova(e)
 * **SpT** = spectral type
+* **triangular dots** = therefore
+* **v.v.** = vice versa
+* **w/** = with
+
+
+
+
+
+
+
+
+
+
+
+
 
